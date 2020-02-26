@@ -16,7 +16,7 @@ import modelo.Utilidades;
 
 /**
  *
- * @author Carlos
+ * @author Raul
  */
 public class horoscopo extends HttpServlet {
 
